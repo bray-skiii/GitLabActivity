@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitLabActivity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bdc0d2c3cebcd3958d444a3c382bba5bf059ab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitLabActivity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitLabActivity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
